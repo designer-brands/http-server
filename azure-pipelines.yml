@@ -20,4 +20,4 @@ steps:
   inputs:
     command: publish
     publishRegistry: useFeed
-    publishFeed: Digital
+    publishFeed: digital-npm
