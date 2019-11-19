@@ -18,6 +18,6 @@ steps:
 
 - task: Npm@1
   inputs:
-    command: publish
-    publishRegistry: useFeed
-    publishFeed: Digital
+    command: 'publish'
+    publishRegistry: 'useFeed'
+    publishFeed: '049aa22b-c641-4a19-8d33-519c684d26f1/3754fc3b-08e8-40f1-b97d-77db511f9002'
