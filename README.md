@@ -63,6 +63,8 @@ Using `npx` you can run the script without installing it first:
 
 `-P` or `--proxy` Proxies all requests which can't be resolved locally to the given url. e.g.: -P http://someurl.com
 
+`--proxy-secure` Verify SSL certificates for proxied requests (defaults to true)
+
 `--username` Username for basic authentication [none]
 
 `--password` Password for basic authentication [none]
